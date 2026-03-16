@@ -2,6 +2,14 @@
 
 Vue 3 + TypeScript frontend for the marketplace (FastAPI backend).
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Screenshot 1](docs/screenshots/Screenshot%202026-03-16%20at%2003.02.24.png) | ![Screenshot 2](docs/screenshots/Screenshot%202026-03-16%20at%2003.02.33.png) |
+| ![Screenshot 3](docs/screenshots/Screenshot%202026-03-16%20at%2003.02.42.png) | ![Screenshot 4](docs/screenshots/Screenshot%202026-03-16%20at%2003.03.01.png) |
+| ![Screenshot 5](docs/screenshots/Screenshot%202026-03-16%20at%2003.03.11.png) | |
+
 ## Stack
 
 - Vue 3, Vue Router
